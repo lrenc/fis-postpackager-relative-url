@@ -1,0 +1,14 @@
+{
+  "name": "fis-postpackager-relative-url",
+  "version": "0.0.1",
+  "description": "将css中引用的资源地址统一修改为相对地址",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis"
+  ],
+  "author": "lrenc",
+  "license": "MIT"
+}
